@@ -1,0 +1,21 @@
+{
+  "name": "@urepairpc/docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uRepairPC/docs.git"
+  },
+  "author": "Alexey Khrushch, alexeykhr@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uRepairPC/docs/issues"
+  },
+  "homepage": "https://github.com/uRepairPC/docs#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
