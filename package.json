@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev"
+    "dev": "vuepress dev",
+    "build": "sh utils/deploy.sh",
+    "build:docs": "vuepress build"
   },
   "repository": {
     "type": "git",
